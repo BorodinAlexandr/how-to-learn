@@ -60,11 +60,13 @@
     text-decoration: none;
     color: #2f80ed;
 }
+.logo {
+    width: 183px;
+}
 .logo_place_header {
     position: absolute;
     top: 30px;
     left: 64px;
-    width: 183px;
     height: 32px;
     background: url(../img/logo_place_header.svg) center center/cover no-repeat;
 }
@@ -81,12 +83,6 @@
     display: flex;
     justify-content: center;
 }
-.description__title {
-    font-size: 18px;
-    line-height: 1.2;
-    font-weight: 400;
-    color: #2f80ed;
-}
 .two-columns {
     display: flex;
     justify-content: space-between;
@@ -97,6 +93,10 @@
     margin: 0;
     padding: 0;
     width: 175px;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #2f80ed;
 }
 .two-columns__main-text {
     width: 80%;
@@ -294,7 +294,6 @@
     font-weight: 400;
 }
 .logo_place_footer {
-    max-width: 183px;
-    min-height: 35px;
-    background: url(../img/logo_place_footer.svg) left bottom/cover no-repeat;
+    height: 35px;
+    background: url(../img/logo_place_footer.svg) center center/cover no-repeat;
 }
