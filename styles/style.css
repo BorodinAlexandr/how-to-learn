@@ -189,17 +189,20 @@
   height: 160px;
   margin: 60px 40px 0;
   border-radius: 100%;
+
 }
 
 .cards__title {
-  margin-top: 43px;
+  padding: 0;
+  margin: 43px 0 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
 }
 
 .cards__description {
-  margin-top: 16px;
+  padding: 0;
+  margin: 16px 0 0;
   line-height: 23px;
   font-size: 18px;
   font-weight: 400;
@@ -310,19 +313,24 @@
 }
 
 .khan__author {
+  margin: 0;
+  padding: 0;
   line-height: 42px;
   font-size: 30px;
   font-weight: 400;
 }
 
 .khan__title {
+  margin: 0;
+  padding: 0;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 700;
 }
 
 .khan__quote {
-  margin-top: 50px;
+  padding: 0;
+  margin: 50px 0 0;
   width: 790px;
   line-height: 34px;
   font-size: 24px;
@@ -330,20 +338,24 @@
 }
 
 .khan__quote-author {
-  margin-top: 36px;
+  padding: 0;
+  margin: 36px 0 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
 }
 
 .khan__quote-author-subline {
-  margin-top: 10px;
+  padding: 0;
+  margin-top: 10px 0 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 400;
 }
 
 .khan__book-container {
+  margin: 0;
+  padding: 0;
   margin-top: 68px;
   display: flex;
 }
@@ -358,7 +370,8 @@
 }
 
 .khan__buy-link {
-  margin-left: 48px;
+  padding: 0;
+  margin: 0 0 0 48px;
   line-height: 42px;
   font-size: 30px;
   font-weight: 400;
@@ -407,11 +420,14 @@
 }
 
 .resourses__logo-zone {
+  padding: 0;
   margin: 80px auto 217px;
   width: 1100px;
 }
 
 .resourses__logo {
+  padding: 0;
+  margin: 0;
   width: 270px;
   height: 38px;
   -o-object-fit: none;
