@@ -73,6 +73,11 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+    opacity: 0.5; 
+    transition:all 0.5s;
+}
+
 .logo {
   width: 183px;
 }
@@ -300,6 +305,10 @@
   text-decoration: none;
   color: #2f80ed;
 }
+.feynman__link:hover {
+    opacity: 0.5; 
+    transition:all 0.5s;
+}
 
 .khan {
   margin-top: 100px;
@@ -378,6 +387,11 @@
   color: #2f80ed;
 }
 
+.khan__buy-link:hover {
+    opacity: 0.5; 
+    transition:all 0.5s;
+}
+
 .kaufman {
   padding: 90px 0;
   position: relative;
@@ -434,6 +448,11 @@
   object-fit: none;
 }
 
+.resourses__logo:hover {
+    opacity: 0.5; 
+    transition:all 0.5s;
+}
+
 .footer {
   box-sizing: border-box;
   min-height: 350px;
@@ -468,6 +487,11 @@
   font-weight: 400;
   color: #fff;
   text-decoration: none;
+}
+
+.footer__column-link:hover {
+    opacity: 0.5; 
+    transition:all 0.5s;
 }
 
 .footer__social-icon {
