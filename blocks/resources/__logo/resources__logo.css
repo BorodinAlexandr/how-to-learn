@@ -1,4 +1,4 @@
-.resourses__logo {
+.resources__logo {
   padding: 0;
   margin: 0;
   width: 270px;
@@ -7,7 +7,7 @@
   object-fit: none;
 }
 
-.resourses__logo:hover {
+.resources__logo:hover {
   opacity: 0.5;
   transition: all 0.5s;
 }

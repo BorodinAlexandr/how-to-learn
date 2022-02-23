@@ -1,4 +1,4 @@
-@import '../vendors/normalize.css';
+@import '../vendor/normalize.css';
 @import '../blocks/rotation/rotation.css';
 @import '../blocks/page/page.css';
 @import '../blocks/header/header.css';
@@ -20,11 +20,12 @@
 @import '../blocks/section-title/section-title.css';
 @import '../blocks/section-subtitle/section-subtitle.css';
 @import '../blocks/cards/cards.css';
-@import '../blocks/cards/__img/cards__img.css';
+@import '../blocks/cards/__image/cards__image.css';
 @import '../blocks/cards/__title/cards__title.css';
 @import '../blocks/cards/__description/cards__description.css';
 @import '../blocks/video/video.css';
 @import '../blocks/video/__iframes/video__iframes.css';
+@import '../blocks/video/__iframe/video__iframe.css';
 @import '../blocks/oakley/oakley.css';
 @import '../blocks/feynman/feynman.css';
 @import '../blocks/feynman/__title/feynman__title.css';
@@ -32,7 +33,6 @@
 @import '../blocks/feynman/__link/feynman__link.css';
 @import '../blocks/digits/digits.css';
 @import '../blocks/table/table.css';
-@import '../blocks/table/__row/table__row.css';
 @import '../blocks/table/__cell/table__cell.css';
 @import '../blocks/table/__heading/table__heading.css';
 @import '../blocks/table/__text/table__text.css';
@@ -51,9 +51,9 @@
 @import '../blocks/section-title/_theme/section-title_theme_dark.css';
 @import '../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css';
 @import '../blocks/table/__cell/_theme/table__cell_theme_dark.css';
-@import '../blocks/resourses/resourses.css';
-@import '../blocks/resourses/__logo-zone/resourses__logo-zone.css';
-@import '../blocks/resourses/__logo/resourses__logo.css';
+@import '../blocks/resources/resources.css';
+@import '../blocks/resources/__logo-zone/resources__logo-zone.css';
+@import '../blocks/resources/__logo/resources__logo.css';
 @import '../blocks/footer/footer.css';
 @import '../blocks/footer/__columns/footer__columns.css';
 @import '../blocks/footer/__column/footer__column.css';
