@@ -14,4 +14,4 @@
 для верстки секций в некоторых случаях использовались Flex, в некоторых - Grid-Layout.
 Все ссылки кликабельны и перенаправляют на ресурсы, на которых можно получить дополнительную информацию по теме.
 
-### Увидеть сайт в живую: [how-to-learn](https://borodinalexandr.github.io/how-to-learn/)
+### Увидеть сайт вживую: [how-to-learn](https://borodinalexandr.github.io/how-to-learn/)
